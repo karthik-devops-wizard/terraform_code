@@ -24,7 +24,4 @@ variable "availability_zones" {
   type        = list
   description = "The az that the resources will be launched"
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
+
